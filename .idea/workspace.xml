@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e00b1b-2f31-46af-a083-499800f1cdc3" name="Default Changelist" comment="update to py_36" />
+    <list default="true" id="42e00b1b-2f31-46af-a083-499800f1cdc3" name="Default Changelist" comment="update to py_36">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
